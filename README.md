@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiakicage
 - 👀 I’m interested in MLSys, HPC and PL.
-- 🌱 I’m currently learning in Zhejiang University, as a member of Turing Class in CKC College.
+- 🌱 I’m currently learning in Zhejiang University, as a master of Computer Science.
 
 
 <!---
