@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @chiakicage
-- 👀 I’m interested in MLSys, HPC and PL.
-- 🌱 I’m currently learning in Zhejiang University, as a master of Computer Science.
+* 👋 Hi, I’m @chiakicage.
+* 👀 I’m interested in **MLSys** and **HPC**.
+* 🌱 I’m currently pursuing a PhD in Computer Science at **Zhejiang University**, with an expected graduation in **2029**.
+
 
 
 <!---
